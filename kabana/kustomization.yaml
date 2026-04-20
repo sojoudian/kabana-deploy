@@ -4,4 +4,5 @@ resources:
   - kabana-knative.yaml
 images:
   - name: ghcr.io/mii1na/kabana
-    newTag: latest
+    newTag: sha-69dd347
+    newName: ghcr.io/mii1na/kabana
