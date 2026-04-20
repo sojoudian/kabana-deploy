@@ -32,7 +32,7 @@ spec:
             initialDelaySeconds: 2
             periodSeconds: 5
 ---
-apiVersion: serving.knative.dev/v1
+apiVersion: serving.knative.dev/v1beta1
 kind: DomainMapping
 metadata:
   name: kabana.tunnels.solutions
