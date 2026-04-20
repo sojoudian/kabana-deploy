@@ -3,6 +3,6 @@ kind: Kustomization
 resources:
   - kabana-knative.yaml
 images:
-  - name: ghcr.io/mii1na/kabana
+  - name: ghcr.io/kabana-bbq/kabana
     newTag: sha-69dd347
-    newName: ghcr.io/mii1na/kabana
+    newName: ghcr.io/kabana-bbq/kabana

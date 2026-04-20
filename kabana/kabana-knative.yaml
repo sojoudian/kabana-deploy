@@ -11,7 +11,7 @@ spec:
         autoscaling.knative.dev/max-scale: "3"
     spec:
       containers:
-        - image: ghcr.io/mii1na/kabana:latest
+        - image: ghcr.io/kabana-bbq/kabana:latest
           ports:
             - containerPort: 5187
               protocol: TCP
