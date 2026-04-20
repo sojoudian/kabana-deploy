@@ -4,5 +4,5 @@ resources:
   - kabana-knative.yaml
 images:
   - name: ghcr.io/kabana-bbq/kabana
-    newTag: sha-69dd347
+    newTag: sha-af7a93a
     newName: ghcr.io/kabana-bbq/kabana
